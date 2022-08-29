@@ -1,0 +1,28 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dzj/学生信息管理系统'
+/usr/bin/cmake -S/home/dzj/学生信息管理系统 -B/home/dzj/学生信息管理系统 --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/dzj/学生信息管理系统/CMakeFiles /home/dzj/学生信息管理系统/CMakeFiles/progress.marks
+make -f CMakeFiles/Makefile2 all
+ 
+make[1]: Entering directory '/home/dzj/学生信息管理系统'
+make -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
+make[2]: Entering directory '/home/dzj/学生信息管理系统'
+cd /home/dzj/学生信息管理系统 && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/dzj/学生信息管理系统 /home/dzj/学生信息管理系统 /home/dzj/学生信息管理系统 /home/dzj/学生信息管理系统 /home/dzj/学生信息管理系统/CMakeFiles/main.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/dzj/学生信息管理系统'
+make -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
+ 
+make[2]: Entering directory '/home/dzj/学生信息管理系统'
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/dzj/学生信息管理系统/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/main.dir/main.cpp.o"
+/usr/bin/c++     -o CMakeFiles/main.dir/main.cpp.o -c /home/dzj/学生信息管理系统/main.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/dzj/学生信息管理系统/CMakeFiles --progress-num=2 "Building CXX object CMakeFiles/main.dir/linked_list.cpp.o"
+/usr/bin/c++     -o CMakeFiles/main.dir/linked_list.cpp.o -c /home/dzj/学生信息管理系统/linked_list.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/dzj/学生信息管理系统/CMakeFiles --progress-num=3 "Building CXX object CMakeFiles/main.dir/teacher.cpp.o"
+/usr/bin/c++     -o CMakeFiles/main.dir/teacher.cpp.o -c /home/dzj/学生信息管理系统/teacher.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/dzj/学生信息管理系统/CMakeFiles --progress-num=4 "Linking CXX executable main"
+/usr/bin/cmake -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=
+make[2]: Leaving directory '/home/dzj/学生信息管理系统'
+/usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/dzj/学生信息管理系统/CMakeFiles --progress-num=1,2,3,4 "Built target main"
+make[1]: Leaving directory '/home/dzj/学生信息管理系统'
+/usr/bin/cmake -E cmake_progress_start /home/dzj/学生信息管理系统/CMakeFiles 0
+make: Leaving directory '/home/dzj/学生信息管理系统'
+ 

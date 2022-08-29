@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dzj/学生信息管理系统/linked_list.cpp
+linked_list.h
+/home/dzj/学生信息管理系统/linked_list.h
+
+/home/dzj/学生信息管理系统/linked_list.h
+iostream
+-
+fstream
+-
+
+/home/dzj/学生信息管理系统/main.cpp
+iostream
+-
+linked_list.h
+/home/dzj/学生信息管理系统/linked_list.h
+

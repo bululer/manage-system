@@ -1,0 +1,3 @@
+/home/dzj/学生信息管理系统/build/CMakeFiles/rebuild_cache.dir
+/home/dzj/学生信息管理系统/build/CMakeFiles/edit_cache.dir
+/home/dzj/学生信息管理系统/build/CMakeFiles/main.dir

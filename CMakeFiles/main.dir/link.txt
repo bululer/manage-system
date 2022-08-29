@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/linked_list.cpp.o CMakeFiles/main.dir/teacher.cpp.o  -o main 

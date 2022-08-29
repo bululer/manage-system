@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/dzj/学生信息管理系统/build",
+  "command": "/usr/bin/g++     -O0 -Wall -g2 -ggdb   -o CMakeFiles/main.dir/main.cpp.o -c /home/dzj/学生信息管理系统/main.cpp",
+  "file": "/home/dzj/学生信息管理系统/main.cpp"
+},
+{
+  "directory": "/home/dzj/学生信息管理系统/build",
+  "command": "/usr/bin/g++     -O0 -Wall -g2 -ggdb   -o CMakeFiles/main.dir/linked_list.cpp.o -c /home/dzj/学生信息管理系统/linked_list.cpp",
+  "file": "/home/dzj/学生信息管理系统/linked_list.cpp"
+},
+{
+  "directory": "/home/dzj/学生信息管理系统/build",
+  "command": "/usr/bin/g++     -O0 -Wall -g2 -ggdb   -o CMakeFiles/main.dir/teacher.cpp.o -c /home/dzj/学生信息管理系统/teacher.cpp",
+  "file": "/home/dzj/学生信息管理系统/teacher.cpp"
+}
+]
